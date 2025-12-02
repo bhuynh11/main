@@ -1,1 +1,184 @@
 
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Bryan Huynh's Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="landing is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">Bryan Huynh</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">Home</a></li>
+											<li><a href="generic.html">About</a></li>
+											<li><a href="elements.html">Projects</a></li>
+											<li><a href="Experience.html">Experience</a></li>
+											<li><a href="Contact%20Me.html">Contact Me</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<h2>Bryan Huynh</h2>
+							<p>Aspiring Software Engineer<br />
+							Business Data Analytics<br />
+							Java | Python | AI/ML</a></p>
+							<ul class="actions special">
+								<li><a href="#" class="button primary">Home</a></li>
+							</ul>
+						</div>
+						<a href="#one" class="more scrolly">Learn More</a>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style1 special">
+						<div class="inner">
+							<header class="major">
+								<h2>About Bryan Huynh<br />
+								I was born in Vietnam and grew up in Tacoma, Washington, currently attending at University of Washington Tacoma.
+                                    I am currently a fourth year majoring in Computer Science and minoring in Business Data Analytics.
+                                    I shifted my focus towards finding internships and experience to further myself into the technology world.</h2>
+
+							</header>
+							<ul class="icons major">
+								<li><span class="icon fa-gem major style1"><span class="label">Lorem</span></span></li>
+								<li><span class="icon fa-heart major style2"><span class="label">Ipsum</span></span></li>
+								<li><span class="icon solid fa-code major style3"><span class="label">Dolor</span></span></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+						<section class="spotlight">
+							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
+								<h2>Work Experience<br />
+								<p></p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+								<h2>Specialist | Apple | Tacoma, WA<br />
+                                </h2>
+								<p>● Delivered technical troubleshooting and product integration support across Apple’s
+                                    software ecosystem (macOS, iOS, iCloud), improving customer experience and system
+                                    reliability.</p>
+                            <p> ● Collaborated with cross-functional teams to streamline device setup workflows and data
+                                transfers, reinforcing principles of system design, backend logic, and technical
+                                communication. </p>
+                            <p> ● Translated complex technical concepts into user-friendly solutions by applying Apple’s
+                                core values of empathy, ownership, and connection, ensuring customers felt understood
+                                while using logical reasoning and systems analysis to resolve software and network issues.</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
+								<h2>Campaign Manager | Fine Line Marketing, Inc. | Tacoma, WA<br /></h2>
+                            <p> ● Led a team of 5–10 representatives, training them in sales strategies, customer engagement,
+                                and brand representation, resulting in 50% increase in weekly revenue.</p>
+								<p>● Achieved #1 national ranking in AT&T sales by implementing customer-centric strategies
+                                    and consultative selling techniques, generating $10K+ weekly revenue for multiple months.</p>
+                            <p>● Drove campaigns for brands including Apple, Samsung, AT&T, and Leaf in retailers such as
+                                Costco and Lowe’s, improving customer retention by 30% through personalized product
+                                demos and follow-up engagement.</p>
+                            <p>● Optimized sales campaigns by analyzing KPIs and CRM data with advanced Excel models,
+                                boosting conversion rates 20% and overall revenue 15% while mentoring team members.</p>
+							</div>
+						</section>
+					</section>
+
+				<!-- Three -->
+					<section id="three" class="wrapper style3 special">
+						<div class="inner">
+							<header class="major">
+								<h2> Skills </h2>
+								<p></p>
+							</header>
+							<ul class="features">
+								<li class="icon solid fa-code">
+									<h3>Java</h3>
+									<p> </p>
+								</li>
+								<li class="icon solid fa-code">
+									<h3>Python</h3>
+									<p> </p>
+								</li>
+								<li class="icon solid fa-code">
+									<h3>SQL</h3>
+									<p> </p>
+								<li class="icon solid fa-code">
+									<h3> Git </h3>
+									<p> </p>
+								</li>
+								<li class="icon fa-heart">
+									<h3>Management</h3>
+									<p></p>
+								</li>
+								<li class="icon solid fa-code">
+									<h3>AI/ML</h3>
+									<p> </p>
+								</li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- CTA -->
+					<section id="cta" class="wrapper style4">
+						<div class="inner">
+							<header>
+								<h2>Contact Me</h2>
+								<p></p>
+							</header>
+							<ul class="actions stacked">
+								<li><a href="#" class="button fit primary">Contact me</a></li>
+								<li><a href="#" class="button fit">Learn More</a></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+							<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
